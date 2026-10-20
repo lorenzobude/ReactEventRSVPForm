@@ -1,3 +1,3 @@
  # React Event RSVP Form
 
-A simple React app for collecting event RSVPs.
+Live URL: https://lorenzobude.github.io/ReactEventRSVPForm
